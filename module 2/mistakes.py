@@ -20,3 +20,14 @@ who preferred to sleep with the light on.
 They learned how to code
 a device that sure glowed
 and lit up the night using Python!''')
+
+
+
+
+
+
+
+#Recommend solutions to fixing mistakes you can’t find or having trouble with:
+#- Walk away and come back to it,
+#- Have another coder look at it;
+#- Step though your code with your debugger.
