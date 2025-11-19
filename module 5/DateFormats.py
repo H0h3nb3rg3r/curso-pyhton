@@ -39,7 +39,6 @@ print("Your next brithday will be in", days.days, "days")
 
 
 
-
 #How many days do I have to my birthday?: - NOT MADE UP IN THE CLASS
 import datetime
 userInput2 = input("Whats is your birthday? (mm/dd/yyyy) ")
