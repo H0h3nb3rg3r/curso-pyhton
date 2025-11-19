@@ -53,8 +53,3 @@ else:
 DaysRemaining = (BirthdayNext - currentDate3).days
 print(f"You have {DaysRemaining} days until your birthday!")
 #"f" in the print means your are going to put a variable in the print
-
-
-
-#ctrl + K, ctrl + C - comment multiple lines
-#ctrl + K, ctrl + U - discomment multiple lines

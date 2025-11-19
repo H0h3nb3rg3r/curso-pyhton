@@ -7,3 +7,7 @@
 #- What a particular line or section of code does;
 #- Why you chose to do something a particular way;
 #- Anything that might be helpful to know if you or someone else looking at the code later and trying to understand it.
+
+
+#ctrl + K, ctrl + C - comment multiple lines
+#ctrl + K, ctrl + U - discomment multiple lines
