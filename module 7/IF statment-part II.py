@@ -33,8 +33,8 @@ print("Have a nice day")
 #What will appear on the screen if deposit is 50?
 #What will appear on the screen if deposit is exactly 100?:
 #E.g. code with numbers, but asking the user to put the number:
-deposti1 = float(input("How much do you want to deposit: "))
+deposit1 = float(input("How much do you want to deposit: "))
 #if float(deposit) > 100: - it also will work, but you can't put float in the input - but prefer the other style
-if deposti1 > 100: #101 or more - NOT 100
+if deposit1 > 100: #101 or more - NOT 100
     print("Enjoy your toaster!")
 print("Have a nice day")
