@@ -24,3 +24,5 @@ if freeToaster:
     print("Enjoy your toaster!")
 print("Have a nice day!")
 #IT'S BETER TO DO IN THAT WAY IF YOU ARE WORKING WITH CODES, OR IF YOU'RE WRITTING BIG CODES
+
+#A Boolean variable is one that holds the value true or false
