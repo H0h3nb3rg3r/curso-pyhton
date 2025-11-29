@@ -22,12 +22,4 @@ while i < 4:
     turtle.right(90)
     i=i+1 #MOST IMPORTANT LINE
 #This code will draw a square
-
-
-#Another e.g.:
-j = 0
-while j <= 4:
-    turtle.forward(100)
-    turtle.right(90)
-    j=j+1
-#This code will draw 5 lines, because it will execute till reach 4, and the counter starts in 0
+#The code will never reach 4, it will go till 3, becuase it's requested less than 4
