@@ -30,7 +30,7 @@ print(guests2[-1])
 print(guests2[3])
 
 guests2.remove("Bill")
-#If it have two Bill, the code will remove just one Bill
+#If it have two Bill, the code will remove just one Bill, the first one
 del guests2[0]
 print(guests2[0])
 print(guests2)
