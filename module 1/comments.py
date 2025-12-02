@@ -11,3 +11,5 @@
 
 #ctrl + K, ctrl + C - comment multiple lines
 #ctrl + K, ctrl + U - discomment multiple lines
+
+#If you press "Alt" and then press the arrows, the code will move
